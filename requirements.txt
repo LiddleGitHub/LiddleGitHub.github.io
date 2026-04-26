@@ -6,7 +6,7 @@ sphinx-rtd-theme>=2.0.0
 
 # Popular themes (choose one)
 # sphinx-rtd-theme
-sphinx-book-theme
+# sphinx-book-theme
 
 # Common extensions
 #myst-parser           # For Markdown support
