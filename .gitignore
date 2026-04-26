@@ -1,4 +1,11 @@
 
-# 2025.11.11
+# 2026.04.27
 *~
 LiddleGitHub-Profile.komodoproject
+#
+# Sphinx build directory
+venv
+docs/_build/
+# Or if your build folder is at the root
+_build/
+#END
