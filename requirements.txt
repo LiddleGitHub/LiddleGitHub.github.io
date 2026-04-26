@@ -11,11 +11,11 @@ sphinx>=9.1.0
 #        dask-sphinx-theme no longer pinning sphinx-book-theme==0.2.0. This is
 #        tracked in https://github.com/dask/dask-sphinx-theme/issues/68.
 #
-sphinxcontrib-applehelp<1.0.5
-sphinxcontrib-devhelp<1.0.6
-sphinxcontrib-htmlhelp<2.0.5
-sphinxcontrib-serializinghtml<1.1.10
-sphinxcontrib-qthelp<1.0.7
+#sphinxcontrib-applehelp<1.0.5
+#sphinxcontrib-devhelp<1.0.6
+#sphinxcontrib-htmlhelp<2.0.5
+#sphinxcontrib-serializinghtml<1.1.10
+#sphinxcontrib-qthelp<1.0.7
 
 
 ##sphinxcontrib-applehelp==2.0.0
