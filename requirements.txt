@@ -1,15 +1,15 @@
 # Core Sphinx library
-sphinx>=9.0.0
+##sphinx>=9.0.0
 #sphinx==5.0.2
 
-sphinxcontrib-applehelp==2.0.0
-sphinxcontrib-devhelp==2.0.0
-sphinxcontrib-htmlhelp==2.1.0
-sphinxcontrib-qthelp==2.0.0
-sphinxcontrib-serializinghtml==2.0.0
+##sphinxcontrib-applehelp==2.0.0
+##sphinxcontrib-devhelp==2.0.0
+##sphinxcontrib-htmlhelp==2.1.0
+##sphinxcontrib-qthelp==2.0.0
+##sphinxcontrib-serializinghtml==2.0.0
 
 
-sphinx-rtd-theme>=2.0.0
+##sphinx-rtd-theme>=2.0.0
 
 ## NOPE sphinx>=7.0.0
 
