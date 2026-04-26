@@ -1,11 +1,14 @@
 # Core Sphinx library
-sphinx>=7.0.0
+sphinx>=9.0.0
+sphinx-rtd-theme>=2.0.0
+
+## NOPE sphinx>=7.0.0
 
 # Popular themes (choose one)
-sphinx-rtd-theme
+# sphinx-rtd-theme
 sphinx-book-theme
 
 # Common extensions
-myst-parser           # For Markdown support
-sphinx-autodoc-typehints
-sphinx-copybutton
+#myst-parser           # For Markdown support
+#sphinx-autodoc-typehints
+#sphinx-copybutton
